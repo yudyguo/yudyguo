@@ -5,12 +5,13 @@
 <i>I turn ambiguous platform and service problems into structured workflows, scalable patterns and shipped features.</i>
 
 <pre>
-    💼 Product designer @ Vienna, Austria
-    🧩 B2B platforms • Service design • Scalable patterns
-    🎨 Figma • Sketch • User research • HTML/CSS • React
-    🏄 Surfing with vibe-coding
-    💃 Dancing • Hiking • Swimming • Museum
-    😴 Good at sleeping well
+  💼 Product designer @ Vienna
+  🧩 B2B platforms • Patterns
+  🔍 Service design • UX research
+  🎨 Figma • HTML/CSS • React
+  🏄 Surfing with vibe-coding
+  💃 Dancing • Hiking • Swimming
+  🖼️ Museum • 😴 Sleeping well
 </pre>
 
 [![](https://img.shields.io/badge/CV-PDF-C08497)](cv/Yadi_Guo_CV.pdf)
