@@ -9,9 +9,9 @@
     💼 Product designer @ Vienna, Austria
     🧩 B2B platforms • Service design • Scalable patterns
     🎨 Figma • Sketch • User research • HTML/CSS • React
-    🚀 Currently building an AI-assisted job-application tracker
-    💃 Dancing • Hiking • Swimming • Cycling
-    😴 Sleeping • Eating
+    🏄 Surfing with vibe-coding
+    💃 Dancing • Hiking • Swimming • Museum
+    😴 Good at sleeping well
 </pre>
 
 [![](https://img.shields.io/badge/CV-PDF-C08497)](cv/Yadi_Guo_CV.pdf)
