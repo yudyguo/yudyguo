@@ -1,6 +1,5 @@
 <div align="center">
-<img src="assets/yadi.jpg" width="22%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=C08497&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Yadi%2C+a+product+designer+%E2%9C%A8" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=C08497&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Yadi%2C+a+product+designer+%E2%9C%A8" width="90%" />
 <br><br>
 
 <i>I turn ambiguous platform and service problems into structured workflows, scalable patterns and shipped features.</i>
